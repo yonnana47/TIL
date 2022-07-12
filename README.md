@@ -1,4 +1,4 @@
 # TIL  (Today I learned)
 
-## 🫶 기타
+## <span style = "background-color: #fff5b1"> 기타 </span>
 ### [마크문법](마크다운문법.md)
