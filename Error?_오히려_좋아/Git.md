@@ -1,3 +1,4 @@
+7월 13일 수요일
 ``` terminal
 Agreeing to the Xcode/iOS license requires admin privileges, 
 please re-run as root via sudo
